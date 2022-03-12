@@ -1,5 +1,5 @@
 # BikeRentalCenter
-A **WinForms** Application developed using C# in Visual Studio and connected to an **MS SQL Server database **
+A **WinForms** Application developed using C# in Visual Studio and connected to an **MS SQL Server database**
 
 ## Tasks accomplished: 
 - login page
